@@ -1,7 +1,7 @@
 #Complete as funcoes a seguir
 
 def soma(a, b):
-	#Insira o codigo aqui
+	print("a + b = ", a+b)
 
 def subtrai(a, b):
 	#Insira o codigo aqui
